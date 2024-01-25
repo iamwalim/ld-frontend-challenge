@@ -4,6 +4,9 @@
 
 # LD Frontend Challenge
 
+## Live preview
+👉 https://ld-frontend-submission.vercel.app
+
 ## Initialization
 
 Install dependencies
